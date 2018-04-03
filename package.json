@@ -1,0 +1,26 @@
+{
+  "name": "rajib",
+  "version": "1.0.0",
+  "description": "godd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajib-ahmed/api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Rajib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajib-ahmed/api/issues"
+  },
+  "homepage": "https://github.com/Rajib-ahmed/api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
